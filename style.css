@@ -4,9 +4,16 @@ h1 {
     font-size: 3em;
 }
 
-h3 {
+h3:not(#autre) {
     color: #005E95;
     font-size: 2em;
+}
+
+#autre {
+    color : green ;
+    text-align: right;
+    font-size: 2em;
+    text-decoration: underline;
 }
 
 .content {
