@@ -1,0 +1,30 @@
+h1 {
+    color : #EB2A01;
+    text-align: center;
+    font-size: 3em;
+}
+
+h3 {
+    color: #005E95;
+    font-size: 2em;
+}
+
+.content {
+    background-color: #E2E2E2 ;
+}
+
+strong {
+    font-weight: normal;
+    color : yellowgreen;
+}
+
+em {
+    font-style: normal;
+    color : orange;
+    text-decoration: underline;
+    font-size : 3ex
+}
+
+#last {
+    background-color: lightpink;
+}
